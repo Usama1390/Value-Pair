@@ -1,0 +1,6 @@
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Value Pair\Value Pair\bin\Debug\Value Pair.exe.config
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Value Pair\Value Pair\bin\Debug\Value Pair.exe
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Value Pair\Value Pair\bin\Debug\Value Pair.pdb
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Value Pair\Value Pair\obj\Debug\Value Pair.csprojResolveAssemblyReference.cache
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Value Pair\Value Pair\obj\Debug\Value Pair.exe
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Value Pair\Value Pair\obj\Debug\Value Pair.pdb
